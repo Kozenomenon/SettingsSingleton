@@ -15,5 +15,5 @@
   - SettingsCCA_TestActor
     - _test cca only used to add the test buff to player in PIE_
   - SettingsCCA_TestBuff
-    - _test player buff added during PIE (short delay), which then demonstrates setting value retrieval and logging the results_
+    - _test player buff added in PIE (short delay); demonstrates setting value retrieval and logging the results_
 
